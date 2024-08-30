@@ -1,0 +1,17 @@
+D:\QuanLyPhongMach\QLPM.DAL\bin\Debug\net8.0\QLPM.DAL.deps.json
+D:\QuanLyPhongMach\QLPM.DAL\bin\Debug\net8.0\QLPM.DAL.runtimeconfig.json
+D:\QuanLyPhongMach\QLPM.DAL\bin\Debug\net8.0\QLPM.DAL.dll
+D:\QuanLyPhongMach\QLPM.DAL\bin\Debug\net8.0\QLPM.DAL.pdb
+D:\QuanLyPhongMach\QLPM.DAL\bin\Debug\net8.0\QLPM.Common.dll
+D:\QuanLyPhongMach\QLPM.DAL\bin\Debug\net8.0\QLPM.Common.pdb
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\QLPM.DAL.csproj.AssemblyReference.cache
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\QLPM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\QLPM.DAL.AssemblyInfoInputs.cache
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\QLPM.DAL.AssemblyInfo.cs
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\QLPM.DAL.csproj.CoreCompileInputs.cache
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\QLPM.DAL.csproj.Up2Date
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\QLPM.DAL.dll
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\refint\QLPM.DAL.dll
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\QLPM.DAL.pdb
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\QLPM.DAL.genruntimeconfig.cache
+D:\QuanLyPhongMach\QLPM.DAL\obj\Debug\net8.0\ref\QLPM.DAL.dll
